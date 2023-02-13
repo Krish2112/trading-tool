@@ -111,13 +111,7 @@ nav ul li a {
 }
 .container111 {
     display: flex;
-    height: 100%;
-    position: absolute;
-    width: 600px;
-    margin-top: 80px;
-    
-    padding-left: 600px;
-    justify-content: flex-end;
+    height: 500;
 }
 
 
@@ -273,3 +267,17 @@ nav ul li a {
     opacity: 1;
     transform: translate(-50%, -130%);
   }
+  .navbar
+  {
+    padding-left: 40;
+    padding-top: 10;
+  }
+  .navbar-start
+  {
+    margin-left: 750;
+  }
+  .buttons
+  {
+    padding-right: 20;
+  }
+  
